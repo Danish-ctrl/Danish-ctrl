@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danish-ctrl
-- 👀 I’m interested in learning new technologies, coding 
+- 👀 I’m interested in doing coding and learning new technologies.
 - 🌱 I’m currently learning machine learning concepts in Autonomous Driving Cars and working as a Development Engineer at FDTech(https://www.fdtech.de/en/)
 - 📫 To connect, here is my LinkedIn profile https://www.linkedin.com/in/mohammed-danish-reza-aa1b17196/
 
