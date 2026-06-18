@@ -1,6 +1,6 @@
 # Hi, I'm Danish Reza 🚀
 
-A **Software Engineer** specializing in automotive test automation, system development, and AI integration. I bridge the gap between robust software architecture and intelligent system automation, currently focusing on machine learning applications for autonomous driving systems.
+A **Software Engineer** specializing in automotive test automation and battery validation systems. I bridge the gap between embedded automotive technologies and intelligent software solutions, leveraging 4+ years of professional industry experience to design robust testing frameworks, automation tools, and AI-driven workflows.
 
 ---
 
@@ -8,35 +8,35 @@ A **Software Engineer** specializing in automotive test automation, system devel
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, C++, SQL |
-| **AI & Machine Learning** | Large Language Models (LLMs), Multi-Agent Orchestration, Prompt Engineering |
-| **Automation & Testing** | Hardware-in-the-Loop (HIL) Testing, Scripting, Automation Tool Development |
-| **Frameworks & Libraries** | Streamlit, Tkinter, Pytest, NumPy, Pandas |
-| **Tools & Databases** | Git, GitHub, SQLite3, VS Code |
+| **Languages** | Python, C, SQL, Bash |
+| **Automation & Testing** | Battery Test Automation, Hardware-in-the-Loop (HIL), Test Automation Tools, Pytest |
+| **AI & Machine Learning** | Multi-Agent Orchestration, Large Language Models (LLMs), Prompt Engineering |
+| **Data & Frameworks** | NumPy, Pandas, Streamlit, Tkinter |
+| **Tools & Version Control**| Git, GitHub, SQLite3, VS Code |
 
 ---
 
-## 🏎️ Professional Focus & Interests
+## 🏎️ Core Professional Focus
 
-* **Automotive Engineering:** 2.2+ years of hands-on experience designing, developing, and executing software validation pipelines and testing frameworks within the automotive sector.
-* **Autonomous Driving & ML:** Deeply engaged in the study and development of machine learning models, semantic perception, and decision-making logic for autonomous vehicle platforms.
-* **Intelligent Automation:** Building custom, decoupled software architectures and background execution engines that use generative AI to streamline production workflows.
+* **Automotive Battery Testing & Automation:** 4+ years of experience engineering custom test automation tools and validation software for automotive battery systems, optimizing data collection pipelines, and ensuring system reliability.
+* **AI & Machine Learning Integration:** Actively applying modern ML concepts, intelligent agents, and semantic processing to traditional automation frameworks, with a long-term focus on autonomous vehicle technologies.
+* **Software Architecture:** Focused on building decoupled, modular codebases that separate core processing logic from user interfaces, making systems highly scalable and easy to maintain.
 
 ---
 
 ## 🚀 Featured Project
 
 ### [NeEvo (Next Evolution) ᯤ](https://github.com/Danish-ctrl/neevo_ai_assitant.git)
-An LLM-driven desktop automation platform powered by Python and Llama-3. 
-* Architected a multi-agent orchestration layer to parse natural language and route tasks dynamically.
-* Implemented a persistent, asynchronous daemon thread loop to manage background events without freezing the interface.
-* Built modular automation pipelines for secure email handling, real-time weather parsing, and localized task scheduling.
+An LLM-driven desktop automation platform that demonstrates how traditional desktop tooling can be enhanced with modern AI orchestrators.
+* **Multi-Agent Architecture:** Utilizes Llama-3 to dynamically interpret natural language user intent and delegate tasks to specialized internal agents.
+* **Autonomous Workflows:** Implemented an independent, asynchronous background daemon loop to process scheduled triggers and state updates without impacting user interface responsiveness.
+* **Secure Tooling:** Integrates secure local credential storage and modular design patterns for automated email dispatching, real-time weather data fetching, and task management.
 
 ---
 
 ## 📬 Connect with Me
 
-Let's collaborate on automotive software development, AI tooling, or machine learning engineering.
+I am always open to collaborating on automotive software engineering, advanced test automation architectures, or AI/ML-driven tooling.
 
 * **LinkedIn:** [linkedin.com/in/mohammed-danish-reza-aa1b17196](https://www.linkedin.com/in/mohammed-danish-reza-aa1b17196/)
 * **GitHub Portfolio:** [github.com/Danish-ctrl](https://github.com/Danish-ctrl)
